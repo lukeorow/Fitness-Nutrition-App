@@ -1,0 +1,10 @@
+lukeorow
+Luke Orow
+M
+20
+76
+233.0
+205.0
+3361
+loss
+2361.0
